@@ -1,6 +1,6 @@
-"""CLI.  python -m chatbot                       interactive
-       python -m chatbot "hotel in Paris under 90"   one-shot
-       python -m chatbot --data path/to/folder         use another hotels.json / restaurants.json pair
+"""CLI.  python3 -m chatbot                       interactive
+       python3 -m chatbot "hotel in Paris under 90"   one-shot
+       python3 -m chatbot --data path/to/folder         use another hotels.json / restaurants.json pair
 """
 from __future__ import annotations
 
