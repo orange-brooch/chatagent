@@ -1,0 +1,6 @@
+[
+  {"name": "Cactus Table", "city": "Scottsdale", "cuisine": "southwestern", "price": 45, "tags": ["patio", "dinner"]},
+  {"name": "Saguaro Sushi", "city": "Phoenix", "cuisine": "japanese", "price": 60, "tags": ["dinner", "vegetarian"]},
+  {"name": "Trailhead Cafe", "city": "Sedona", "cuisine": "american", "price": 18, "tags": ["breakfast", "hiking", "budget"]},
+  {"name": "Mesa Taqueria", "city": "Phoenix", "cuisine": "mexican", "price": 15, "tags": ["budget", "lunch", "vegetarian"]}
+]

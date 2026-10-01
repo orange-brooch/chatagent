@@ -1,0 +1,6 @@
+[
+  {"name": "Desert Sage Inn", "city": "Phoenix", "price": 110, "tags": ["pool", "budget", "pet-friendly"]},
+  {"name": "Camelback Lodge", "city": "Scottsdale", "price": 240, "tags": ["spa", "hiking", "luxury"]},
+  {"name": "Old Town Suites", "city": "Scottsdale", "price": 160, "tags": ["walkable", "pool", "nightlife"]},
+  {"name": "Sedona Red Rock Retreat", "city": "Sedona", "price": 280, "tags": ["hiking", "spa", "views"]}
+]
