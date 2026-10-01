@@ -1,0 +1,14 @@
+[
+  {"name": "Cactus Table", "city": "Scottsdale", "cuisine": "southwestern", "price": 45, "tags": ["patio", "dinner"]},
+  {"name": "Saguaro Sushi", "city": "Phoenix", "cuisine": "japanese", "price": 60, "tags": ["dinner", "vegetarian"]},
+  {"name": "Trailhead Cafe", "city": "Sedona", "cuisine": "american", "price": 18, "tags": ["breakfast", "hiking", "budget"]},
+  {"name": "Mesa Taqueria", "city": "Phoenix", "cuisine": "mexican", "price": 15, "tags": ["budget", "lunch", "vegetarian"]},
+  {"name": "Le Petit Comptoir", "city": "Paris", "cuisine": "french", "price": 38, "tags": ["dinner"]},
+  {"name": "Chez Marguerite", "city": "Paris", "cuisine": "french", "price": 62, "tags": ["dinner", "patio"]},
+  {"name": "Pasta alla Rue", "city": "Paris", "cuisine": "italian", "price": 28, "tags": ["lunch", "budget"]},
+  {"name": "Bistro Brickell", "city": "Miami", "cuisine": "french", "price": 48, "tags": ["dinner"]},
+  {"name": "Maison Wynwood", "city": "Miami", "cuisine": "french", "price": 72, "tags": ["dinner", "patio"]},
+  {"name": "Island Spice Kitchen", "city": "Miami", "cuisine": "caribbean", "price": 26, "tags": ["lunch", "budget"]},
+  {"name": "Calypso Grill", "city": "Miami", "cuisine": "caribbean", "price": 41, "tags": ["dinner", "patio"]},
+  {"name": "Little Havana Cafe", "city": "Miami", "cuisine": "cuban", "price": 14, "tags": ["breakfast", "budget"]}
+]

@@ -1,0 +1,17 @@
+[
+  {"name": "Desert Sage Inn", "city": "Phoenix", "price": 110, "tags": ["pool", "budget", "pet-friendly"]},
+  {"name": "Camelback Lodge", "city": "Scottsdale", "price": 240, "tags": ["spa", "hiking", "luxury"]},
+  {"name": "Old Town Suites", "city": "Scottsdale", "price": 160, "tags": ["walkable", "pool", "nightlife"]},
+  {"name": "Sedona Red Rock Retreat", "city": "Sedona", "price": 280, "tags": ["hiking", "spa", "views"]},
+  {"name": "Hotel Petit Jardin", "city": "Paris", "price": 78, "tags": ["budget"]},
+  {"name": "Rue Vivienne Inn", "city": "Paris", "price": 89, "tags": ["budget", "pet-friendly"]},
+  {"name": "Seine Side Rooms", "city": "Paris", "price": 90, "tags": ["budget"]},
+  {"name": "Le Marais Boutique", "city": "Paris", "price": 165, "tags": ["spa"]},
+  {"name": "Grand Palais Royale", "city": "Paris", "price": 540, "tags": ["luxury", "spa"]},
+  {"name": "Maison Etoile", "city": "Paris", "price": 780, "tags": ["luxury"]},
+  {"name": "South Beach Hostelry", "city": "Miami", "price": 95, "tags": ["budget", "pool"]},
+  {"name": "Biscayne Bay Motel", "city": "Miami", "price": 99, "tags": ["budget"]},
+  {"name": "Wynwood Lofts", "city": "Miami", "price": 100, "tags": ["pool"]},
+  {"name": "Ocean Drive Suites", "city": "Miami", "price": 210, "tags": ["pool"]},
+  {"name": "Coral Gables Grand", "city": "Miami", "price": 450, "tags": ["luxury", "pool", "spa"]}
+]

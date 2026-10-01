@@ -1,2 +1,6 @@
-out/
-*.class
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+# Keep any real lab data local: python -m chatbot --data data/lab
+data/lab/
