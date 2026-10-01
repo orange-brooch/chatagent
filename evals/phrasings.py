@@ -5,9 +5,9 @@ partial   answered, but some words were not understood and the reply says which 
 clarify   a clause has no usable city, so the bot asks instead of guessing
 fallback  no hotel/restaurant intent at all, so the bot shows what it can do
 
-These are my own phrasings, written to find where the grammar stops. The point is the shape of the
-failures (the bot reports what it ignored), not a benchmark score.
-Run:  python -m evals.phrasings
+These phrasings were written during development to find where the grammar stops. The point is the shape of
+the failures (the bot reports what it ignored), not a benchmark score. See evals/NOTES.md.
+Run:  python3 -m evals.phrasings
 """
 from __future__ import annotations
 
